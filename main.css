@@ -32,10 +32,10 @@ body {
     border-radius: 50%;
 background: linear-gradient(
     to bottom,
-    rgba(161,0,242,0.8) 0%,      /* Color 1 at 0% */
+    rgba(234, 72, 255, 0.8) 0%,      /* Color 1 at 0% */
     rgba(161,0,242,0.8) 15%,     /* Color 1 at 15% */
     transparent 50%,             /* Transparent at 50% */
-    rgba(161,0,242,0.3) 85%,     /* Color 2 at 85% */
+    rgba(119, 46, 255, 0.3) 85%,     /* Color 2 at 85% */
     rgba(161,0,242,0.8) 100%     /* Color 1 at 100% */
 );
     filter: blur(30px);
